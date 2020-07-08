@@ -1,5 +1,7 @@
 # Theta ϴ
 
+![GitHub](https://img.shields.io/github/license/dephraiim/thetajs) ![npm](https://img.shields.io/npm/v/thetajs) ![Twitter Follow](https://img.shields.io/twitter/follow/dephraiim?style=social) ![GitHub followers](https://img.shields.io/github/followers/dephraiim?style=social)
+
 Syntatic Sugar for the default Math Object.
 
 ### Installation
