@@ -1,0 +1,27 @@
+{
+  "name": "thetajs",
+  "version": "1.0.0",
+  "description": "Simple functions for [object Math]",
+  "main": "index.js",
+  "keywords": [
+    "math",
+    "mathjs",
+    "math.js",
+    "Math",
+    "newton",
+    "einstein",
+    "sine",
+    "cosine",
+    "tangent",
+    "logarithm",
+    "geometry",
+    "root",
+    "random",
+    "chancejs",
+    "probability",
+    "graphs",
+    "charts"
+  ],
+  "author": "Ephraim Atta-Duncan",
+  "license": "MIT"
+}
