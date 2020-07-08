@@ -64,3 +64,11 @@ console.log(pi); // 3.141592653589793
 **roundUp(_num_)**: Returns the highest nearest integer of the supplied value.
 
 **roundDown(_num_)**: Returns the lowest nearest integer of the supplied value.
+
+### Author
+
+[Ephraim Atta-Duncan](https://dephraim.now.sh)
+
+### License
+
+[MIT](./license)
