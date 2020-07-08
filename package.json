@@ -1,7 +1,7 @@
 {
   "name": "thetajs",
   "version": "1.0.0",
-  "description": "Simple functions for [object Math]",
+  "description": "Syntatic sugar for [object Math]",
   "main": "index.js",
   "keywords": [
     "math",
@@ -20,6 +20,8 @@
     "chancejs",
     "probability",
     "graphs",
+    "graph",
+    "chart",
     "charts"
   ],
   "author": "Ephraim Atta-Duncan",

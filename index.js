@@ -85,7 +85,7 @@ module.exports = {
   log2: (num) => Math.log2(num),
 
   /**
-   * Returns the base e logarithm of a number.
+   * Returns the natural (base e) logarithm of a number.
    */
   loge: (num) => Math.log(num),
 
